@@ -1,0 +1,33 @@
+id,merk,product,alcoholpercentage,soort,streek,prijs per bak
+1,Dupont,Saison Dupont,6.5,Blond,Henegouwen,24.99
+2,Westmalle,Westmalle Tripel,9.5,Tripel,Antwerpen,29.99
+3,Chimay,Chimay Blauw,9.0,Trappist,Henegouwen,34.99
+4,Rodenbach,Rodenbach Grand Cru,6.0,Bruin,West-Vlaanderen,22.49
+5,Orval,Orval,6.2,Trappist,Luxemburg,32.99
+6,Duvel,Duvel,8.5,Blond,Antwerpen,28.49
+7,La Chouffe,La Chouffe,8.0,Blond,Luxemburg,27.99
+8,Leffe,Leffe Blond,6.6,Blond,Luik,25.99
+9,Leffe,Leffe Bruin,6.5,Bruin,Luik,26.99
+10,Kriek Boon,Kriek Boon,4.0,Kriek,Vlaams-Brabant,23.99
+11,Lindemans,Lindemans Kriek,3.5,Kriek,Vlaams-Brabant,22.49
+12,Brugse Zot,Brugse Zot Blond,6.0,Blond,West-Vlaanderen,24.99
+13,Brugse Zot,Brugse Zot Dubbel,7.5,Bruin,West-Vlaanderen,26.49
+14,St. Bernardus,St. Bernardus Abt 12,10.0,Tripel,West-Vlaanderen,31.99
+15,Palm,Palm Amber,5.4,Amber,Vlaams-Brabant,20.99
+16,Grimbergen,Grimbergen Dubbel,6.5,Bruin,Vlaams-Brabant,25.49
+17,Grimbergen,Grimbergen Tripel,9.0,Tripel,Vlaams-Brabant,27.99
+18,Rochefort,Rochefort 10,11.3,Trappist,Namen,35.49
+19,Kasteel,Kasteel Donker,11.0,Bruin,West-Vlaanderen,30.49
+20,Hoegaarden,Hoegaarden Wit,4.9,Blond,Vlaams-Brabant,19.99
+21,Straffe Hendrik,Straffe Hendrik Tripel,9.0,Tripel,West-Vlaanderen,28.99
+22,Straffe Hendrik,Straffe Hendrik Quadrupel,11.0,Bruin,West-Vlaanderen,33.49
+23,Boon,Oude Geuze Boon,7.0,Amber,Vlaams-Brabant,27.99
+24,Delirium,Delirium Tremens,8.5,Blond,Oost-Vlaanderen,29.49
+25,Delirium,Delirium Nocturnum,8.5,Bruin,Oost-Vlaanderen,30.49
+26,Zundert,Zundert 10,10.0,Trappist,Nederland,34.99
+27,Het Anker,Gouden Carolus Classic,8.5,Bruin,Antwerpen,28.99
+28,Het Anker,Gouden Carolus Tripel,9.0,Tripel,Antwerpen,30.49
+29,Omer,Omer Traditional Blond,8.0,Blond,West-Vlaanderen,26.99
+30,Seef,Seefbier,6.5,Amber,Antwerpen,24.99
+32,Cristal,Pils,5.7,Blond,Limburg,15
+31,Kompel,Triple,8.6,Triple,Limburg,18

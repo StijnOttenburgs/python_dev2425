@@ -1,0 +1,37 @@
+id,merk,model,brandstof,bouwjaar,huurprijs
+1,Toyota,Corolla,Benzine,2015,134
+2,Ford,Focus,Diesel,2018,131
+3,Volkswagen,Golf,Benzine,2020,137
+4,Honda,Civic,Hybride,2019,88
+5,Tesla,Model 3,Elektrisch,2021,118
+6,BMW,3 Serie,Diesel,2017,95
+7,Audi,A4,Benzine,2016,46
+8,Mercedes,C-Klasse,Diesel,2015,135
+9,Nissan,Leaf,Elektrisch,2022,75
+10,Chevrolet,Malibu,Benzine,2014,32
+11,Kia,Sportage,Hybride,2021,141
+12,Hyundai,Elantra,Benzine,2013,148
+13,Subaru,Outback,Diesel,2019,113
+14,Mazda,CX-5,Benzine,2018,83
+15,Jeep,Cherokee,Diesel,2017,144
+16,Lexus,RX,Hybride,2020,127
+17,Fiat,500,Benzine,2012,146
+18,Peugeot,208,Diesel,2014,119
+19,Renault,Clio,Benzine,2015,106
+20,Opel,Astra,Diesel,2016,83
+21,Volvo,XC60,Hybride,2018,66
+22,Jaguar,XE,Diesel,2017,131
+23,Porsche,Cayenne,Benzine,2019,101
+24,Mini,Cooper,Benzine,2013,107
+25,Suzuki,Swift,Benzine,2012,131
+26,Alfa Romeo,Giulia,Diesel,2016,133
+27,Land Rover,Discovery,Diesel,2018,122
+28,Mitsubishi,Outlander,Hybride,2020,127
+29,Dacia,Duster,Benzine,2019,59
+30,Skoda,Octavia,Diesel,2021,33
+31,Citroen,C3,Benzine,2014,32
+32,Seat,Leon,Benzine,2015,81
+33,Ford,Mustang,Benzine,2020,79
+34,Volkswagen,Passat,Diesel,2017,83
+35,Toyota,Yaris,Hybride,2022,68
+36,Volkswagen,Id3,Elektrisch,2023,120
